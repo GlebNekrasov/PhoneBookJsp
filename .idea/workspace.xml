@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PhoneBookJsp:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f1d199b-d79f-47eb-ac29-c440dcd5c13b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Tomcat_PhoneBookJsp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/bootstrap.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/catalina-tasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/catalina.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/catalina.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/ciphers.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/ciphers.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/commons-daemon-native.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/commons-daemon.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/configtest.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/configtest.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/daemon.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/digest.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/digest.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/makebase.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/makebase.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/setclasspath.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/setclasspath.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/shutdown.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/shutdown.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/startup.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/startup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/tomcat-juli.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/tomcat-native.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/tool-wrapper.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/tool-wrapper.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/version.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/bin/version.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/conf/catalina.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/conf/catalina.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/conf/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/conf/jaspic-providers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/conf/jaspic-providers.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/conf/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/conf/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/conf/tomcat-users.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/conf/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/annotations-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/catalina-ant.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/catalina-ha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/catalina-ssi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/catalina-storeconfig.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/catalina-tribes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/catalina.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/ecj-4.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/el-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/jasper-el.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/jasper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/jaspic-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/jsp-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-coyote.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-dbcp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-i18n-cs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-i18n-de.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-i18n-es.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-i18n-fr.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-i18n-ja.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-i18n-ko.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-i18n-pt-BR.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-i18n-ru.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-i18n-zh-CN.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-jdbc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-jni.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-util-scan.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-util.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/tomcat-websocket.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/lib/websocket-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.73/temp/safeToDelete.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/nekrasovgleb/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/nekrasovgleb/converter/ContactConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/nekrasovgleb/converter/IdsConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/nekrasovgleb/dao/ContactDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/nekrasovgleb/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/nekrasovgleb/service/ContactService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/nekrasovgleb/service/ContactValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/nekrasovgleb/service/DeleteValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/nekrasovgleb/servlet/AddContactServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/nekrasovgleb/servlet/DeleteContactsServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/nekrasovgleb/servlet/StartServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/phonebook.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-3.6.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/phonebook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/phonebook.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NRhJvVvqdgoyjxKOY9oVuajEOq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gnekr/IdeaProjects/WebCourse/TodoListjQuery&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.academits.nekrasovgleb.servlet" />
+      <recent name="ru.academits.nekrasovgleb.converter" />
+      <recent name="ru.academits.nekrasovgleb.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat PhoneBookJsp">
+    <configuration name="Tomcat PhoneBookMaven" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat PhoneBookMaven" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="e647951c-62f8-4d31-9d4a-75d8786f1e9a" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50993" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat PhoneBookMaven" />
+      <item itemvalue="Tomcat Server.Tomcat PhoneBookJsp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f1d199b-d79f-47eb-ac29-c440dcd5c13b" name="Changes" comment="" />
+      <created>1679632736449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679632736449</updated>
+      <workItem from="1679632738692" duration="6299000" />
+      <workItem from="1679669011950" duration="6289000" />
+      <workItem from="1679675631047" duration="23643000" />
+      <workItem from="1679936221422" duration="9988000" />
+      <workItem from="1680020183520" duration="714000" />
+      <workItem from="1680020921624" duration="127000" />
+      <workItem from="1680021142680" duration="488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
